@@ -31,3 +31,5 @@
         <li><strong>Security</strong>: Implements basic security measures such as PIN verification for sensitive operations.</li>
         <li><strong>User Interface</strong>: Text-based interface via the command line.</li>
     </ul>
+    <hr>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7220338746292899840/" target="_blank">LinkedIn Post Link</a>
