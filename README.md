@@ -1,4 +1,4 @@
-#ATM Machine Simulation
+<h1>ATM Machine Simulation</h1>
     <p>This Python program simulates the basic functions of an ATM machine. It allows users to perform operations such as account balance inquiry, cash withdrawal, cash deposit, PIN change, and view transaction history.</p>
     <h2>Functions Included</h2>
     <ul>
